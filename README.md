@@ -24,7 +24,7 @@ Sleep Finder is an application designed to analyze user sleep behavior based on 
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/your_username/sleep-finder.git
+   git clone https://github.com/yuvasrisai18/sleep-finder.git
 ## install Dependencies
 cd sleep-finder
 npm install
